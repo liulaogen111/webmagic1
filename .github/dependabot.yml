@@ -5,31 +5,31 @@
 
 version: 2
 updates:
-  - package-ecosystem: "bundler" # See documentation for possible values
+  - package-ecosystem: "maven" # See documentation for possible values
     directory: "/webmagic-core" # Location of package manifests
     schedule:
       interval: "daily"
-  - package-ecosystem: "bundler"
+  - package-ecosystem: "maven"
     directory: "/webmagic-coverage"
     schedule:
       interval: "daily"
-  - package-ecosystem: "bundler"
+  - package-ecosystem: "maven"
     directory: "/webmagic-extension"
     schedule:
       interval: "daily"    
-  - package-ecosystem: "bundler"
+  - package-ecosystem: "maven"
     directory: "/webmagic-samples"
     schedule:
       interval: "daily"    
-  - package-ecosystem: "bundler"
+  - package-ecosystem: "maven"
     directory: "/webmagic-saxon"
     schedule:
       interval: "daily"  
-  - package-ecosystem: "bundler"
+  - package-ecosystem: "maven"
     directory: "/webmagic-scripts"
     schedule:
       interval: "daily"     
-  - package-ecosystem: "bundler"
+  - package-ecosystem: "maven"
     directory: "/webmagic-selenium"
     schedule:
       interval: "daily"         

@@ -32,4 +32,8 @@ updates:
   - package-ecosystem: "maven"
     directory: "/webmagic-selenium"
     schedule:
-      interval: "daily"         
+      interval: "daily"     
+  - package-ecosystem: "maven"
+    directory: "/"
+    schedule:
+      interval: "daily"           

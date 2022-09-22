@@ -9,3 +9,27 @@ updates:
     directory: "/webmagic-core" # Location of package manifests
     schedule:
       interval: "daily"
+  - package-ecosystem: "bundler"
+    directory: "/webmagic-coverage"
+    schedule:
+      interval: "daily"
+  - package-ecosystem: "bundler"
+    directory: "/webmagic-extension"
+    schedule:
+      interval: "daily"    
+  - package-ecosystem: "bundler"
+    directory: "/webmagic-samples"
+    schedule:
+      interval: "daily"    
+  - package-ecosystem: "bundler"
+    directory: "/webmagic-saxon"
+    schedule:
+      interval: "daily"  
+  - package-ecosystem: "bundler"
+    directory: "/webmagic-scripts"
+    schedule:
+      interval: "daily"     
+  - package-ecosystem: "bundler"
+    directory: "/webmagic-selenium"
+    schedule:
+      interval: "daily"         

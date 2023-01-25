@@ -18,7 +18,7 @@
         <groovy-all.version>3.0.10</groovy-all.version>
         <guava.version>31.1-jre</guava.version>
         <htmlcleaner.version>2.26</htmlcleaner.version>
-        <httpclient.version>4.5.13</httpclient.version>
+        <httpclient.version>4.5.14</httpclient.version>
         <httpcore.version>4.4.14</httpcore.version>
         <jedis.version>3.7.1</jedis.version>
         <jruby.version>9.2.14.0</jruby.version>

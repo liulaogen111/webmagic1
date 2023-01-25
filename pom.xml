@@ -27,7 +27,7 @@
         <jython.version>2.7.2</jython.version>
         <log4j.version>1.2.14</log4j.version>
         <mockito-all.version>1.10.5</mockito-all.version>
-        <moco.version>1.1.0</moco.version>
+        <moco.version>1.4.0</moco.version>
         <phantomjsdriver.version>1.2.0</phantomjsdriver.version>
         <saxon-he.version>10.3</saxon-he.version>
         <selenium-java.version>3.141.59</selenium-java.version>
